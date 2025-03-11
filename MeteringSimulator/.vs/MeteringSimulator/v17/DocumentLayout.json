@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\HCI-PZ2\\MeteringSimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{134D87AD-F428-469F-A98E-5F007EDD241B}|MeteringSimulator\\MeteringSimulator.csproj|c:\\users\\administrator\\desktop\\hci-pz2\\meteringsimulator\\meteringsimulator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134D87AD-F428-469F-A98E-5F007EDD241B}|MeteringSimulator\\MeteringSimulator.csproj|solutionrelative:meteringsimulator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HCI-PZ2\\MeteringSimulator\\MeteringSimulator\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MeteringSimulator\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\HCI-PZ2\\MeteringSimulator\\MeteringSimulator\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MeteringSimulator\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:07:35.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

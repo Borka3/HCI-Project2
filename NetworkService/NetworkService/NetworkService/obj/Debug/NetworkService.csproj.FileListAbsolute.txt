@@ -1,0 +1,121 @@
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\Styles\Buttons.baml
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\Styles\Text.baml
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\Display.g.cs
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\Graph.g.cs
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\Display.baml
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\Graph.baml
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntities.g.cs
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntities.baml
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkS.954836E0.Up2Date
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\Notification.Wpf.dll
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\Notification.Wpf.pdb
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\Notification.Wpf.xml
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\System.ValueTuple.xml
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\MVVMLight.Messaging.dll
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\MVVMLight.Messaging.xml
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.dll
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.Net.dll
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.xml
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.Net.xml
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\CommonServiceLocator.dll
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Administrator\Desktop\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\CommonServiceLocator.dll
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.dll
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.Net.dll
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\MVVMLight.Messaging.dll
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\Notification.Wpf.dll
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.xml
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.Net.xml
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\MVVMLight.Messaging.xml
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\Notification.Wpf.pdb
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\Notification.Wpf.xml
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\bin\Debug\System.ValueTuple.xml
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\Styles\Buttons.baml
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\Styles\Text.baml
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\Display.g.cs
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\Graph.g.cs
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntities.g.cs
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\Display.baml
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\Graph.baml
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntities.baml
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkS.954836E0.Up2Date
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Administrator\Desktop\faks 3\6.semestar\INZENJERSTVO UPOTREBLJIVOSTI\HCI-PZ2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb

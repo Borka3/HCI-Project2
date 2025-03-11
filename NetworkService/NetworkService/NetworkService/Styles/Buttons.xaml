@@ -1,0 +1,93 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style x:Key="ButtonStyle"
+           TargetType="RadioButton">
+        <Setter Property="HorizontalAlignment"
+                Value="Center"/>
+        <Setter Property="VerticalAlignment"
+                Value="Center"/>
+        <Setter Property="Margin"
+                Value="0,5,0,0"/>
+
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="RadioButton">
+
+                    <Border x:Name="border"
+                            BorderThickness="0">
+                        <Border.Background>
+                            <SolidColorBrush x:Name="BorderBackground"
+                                             Color="#8E3E63"/>
+                        </Border.Background>
+
+                        <Grid>
+                            <Border x:Name="Indicator"
+                                    HorizontalAlignment="Stretch"
+                                    VerticalAlignment="Top"
+                                    Background="#FFFFFF"
+                                    Visibility="Collapsed"
+                                    CornerRadius="2"/>
+                            <ContentPresenter/>
+
+                        </Grid>
+                    </Border>
+
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver"
+                                 Value="True">
+                            <Setter Property="Visibility"
+                                    TargetName="Indicator"
+                                    Value="Visible"/>
+                        </Trigger>
+                        
+                      
+                        <Trigger Property="IsChecked"
+                                 Value="True">
+                            <Setter Property="Background"
+                                    TargetName="border"
+                                    Value="#8E3E63"/>
+                            <Setter Property="Visibility"
+                                    TargetName="Indicator"
+                                    Value="Visible"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="ButtonStyleNormal"
+           TargetType="Button">
+        <Setter Property="HorizontalAlignment"
+                Value="Center"/>
+        <Setter Property="VerticalAlignment"
+                Value="Center"/>
+        <Setter Property="Margin"
+                Value="0,5,0,0"/>
+        <Setter Property="Foreground"
+                Value="#F6FAB9"/>
+        <Setter Property="FontWeight"
+                Value="Bold"/>
+
+        <Setter Property="Background" Value="#8E3E63"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border x:Name="Border" Background="{TemplateBinding Background}">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#8E3E63" TargetName="Border"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+
+        <Setter Property="FontFamily"
+                Value="/Fonts/#Rubik"/>
+        
+    </Style>
+    
+</ResourceDictionary>

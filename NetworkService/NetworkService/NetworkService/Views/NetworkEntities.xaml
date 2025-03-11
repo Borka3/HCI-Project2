@@ -1,0 +1,123 @@
+﻿<UserControl x:Class="NetworkService.Views.NetworkEntities"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:NetworkService.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="650" d:DesignWidth="810">
+
+    <UserControl.InputBindings>
+        <KeyBinding Modifiers="Control"
+                    Key="A"
+                    Command="{Binding AddEntityCommand}"/>
+        <KeyBinding Modifiers="Control"
+                    Key="B"
+                    Command="{Binding DeleteEntityCommand}"/>
+        <KeyBinding Modifiers="Control"
+                    Key="C"
+                    Command="{Binding FilterEntityCommand}"/>
+        <KeyBinding Modifiers="Control"
+                    Key="E"
+                    Command="{Binding ResetEntityCommand}"/>
+
+    </UserControl.InputBindings>
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Width="790">
+                <TextBlock FontFamily="/Fonts/#Rubik" Foreground="#CAE6B2"  Text="TYPE" Height="Auto" Width="Auto" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="5,1,10,10"/>
+                <ComboBox x:Name="comboBoxEntityType1" ItemsSource="{Binding ComboBoxItems}" SelectedItem="{Binding SelectedEntityTypeToFilter, Mode=TwoWay}" Width="150" Height="22" Margin="5,1,10,10" Background="#8E3E63"/>
+                <TextBlock FontFamily="/Fonts/#Rubik" Foreground="#CAE6B2" Text="ID" Height="Auto" Width="Auto" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="5,1,10,10"/>
+                <StackPanel Orientation="Vertical" Margin="5,1,10,10">
+                    <RadioButton x:Name="radioButtonLessThan" Foreground="#CAE6B2" Content="&lt;" IsChecked="{Binding IsLessThanRadioButtonSelected, Mode=TwoWay}" Background="#8E3E63"/>
+                    <RadioButton x:Name="radioButtonGreaterThan" Foreground="#CAE6B2" Content="&gt;" IsChecked="{Binding IsGreaterThanRadioButtonSelected, Mode=TwoWay}" Background="#8E3E63"/>
+                    <RadioButton x:Name="radioButtonEqually" Foreground="#CAE6B2" Content="=" IsChecked="{Binding IsEquallyRadioButtonSelected, Mode=TwoWay}" Background="#8E3E63"/>
+                </StackPanel>
+
+                <TextBox x:Name="textBoxIdToFilter" Text="{Binding SelectedIdMarginToFilterText, Mode=TwoWay}" Width="150" Height="20" Margin="5,1,10,10" Style="{StaticResource Text_Box_Style}" BorderThickness="1" BorderBrush="#8E3E63"/>
+
+                <Button Style="{StaticResource ButtonStyleNormal}" x:Name="buttonFilter" ToolTip="Filter entities" Content="FILTER" Command="{Binding FilterEntityCommand}" Width="100" Height="30" Margin="6,1,10,10"/>
+                <Button Style="{StaticResource ButtonStyleNormal}" x:Name="buttonReset" ToolTip="Reset field" Content="RESET" Command="{Binding ResetFilterCommand}" Width="100" Height="30" Margin="6,1,10,10"/>
+                <Button Style="{StaticResource ButtonStyleNormal}" x:Name="buttonUndo" ToolTip="Step back" Content="UNDO" Command="{Binding UndoCommand}" Width="100" Height="30" Margin="6,1,10,10"/>
+            </StackPanel>
+
+            <TextBlock Text="{Binding FilterErrorMessage}" Foreground="Red" Width="115" TextAlignment="Center" HorizontalAlignment="Left" Margin="295,0,0,0"/>
+
+            <DataGrid x:Name="dataGridEntities" ItemsSource="{Binding EntitiesToShow}" SelectedItem="{Binding SelectedEntity}" BorderThickness="1" BorderBrush="#8E3E63" Background="#8E3E63" Height="160" Width="757" HorizontalAlignment="Left" Margin="16,5,10,0" RowHeight="20" IsReadOnly="True" SelectionMode="Single" AutoGenerateColumns="False" CanUserAddRows="False" CanUserReorderColumns="False" CanUserResizeColumns="False" VerticalScrollBarVisibility="Hidden" ScrollViewer.CanContentScroll="False">
+                <DataGrid.Resources>
+                    <Style TargetType="{x:Type DataGridColumnHeader}">
+                        <Setter Property="Background" Value="#D2649A"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="VerticalContentAlignment" Value="Center"/>
+                    </Style>
+                    <Style TargetType="DataGridRowHeader">
+                        <Setter Property="Background"
+                                Value="#D2649A"/>
+                    </Style>
+                    <Style TargetType="{x:Type DataGridCell}">
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="{x:Type DataGridCell}">
+                                    <Grid Background="{TemplateBinding Background}">
+                                        <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                    </Grid>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </DataGrid.Resources>
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Foreground="#CAE6B2" Binding="{Binding Id}" Width="*"/>
+                    <DataGridTextColumn Header="Name" Foreground="#CAE6B2" Binding="{Binding Name}" Width="*"/>
+                    <DataGridTextColumn Header="Type" Foreground="#CAE6B2" Binding="{Binding TypeEntity.Name}" Width="*"/>
+                    <DataGridTextColumn Header="Value" Foreground="#CAE6B2" Binding="{Binding Value}" Width="*"/>
+                </DataGrid.Columns>
+                <DataGrid.RowStyle>
+                    <Style TargetType="DataGridRow">
+                        <Setter Property="Background"
+                                Value="#D2649A"/>
+                        <Setter Property="HorizontalContentAlignment"
+                                Value="Stretch"/>
+                        <Setter Property="VerticalContentAlignment"
+                                Value="Stretch"/>
+                        <Setter Property="FontSize"
+                                Value="16"/>
+                        <Setter Property="FontFamily"
+                                Value="/Fonts/#Rubik" />
+                    </Style>
+                </DataGrid.RowStyle>
+            </DataGrid>
+
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Margin="0,15,0,0">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                    <TextBlock FontFamily="/Fonts/#Rubik" Foreground="#CAE6B2" Text="ID: " Height="Auto" Width="Auto" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    <TextBox x:Name="textBoxId" Text="{Binding CurrentEntity.TextId, Mode=TwoWay}" Width="150" Height="20" Style="{StaticResource Text_Box_Style}" BorderThickness="1" BorderBrush="#8E3E63"/>
+                    <TextBlock FontFamily="/Fonts/#Rubik" Foreground="#CAE6B2" Text="NAME: " Height="Auto" Width="Auto" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10,10,0,10"/>
+                    <TextBox x:Name="textBoxName" Text="{Binding CurrentEntity.Name, Mode=TwoWay}" Width="150" Height="20" Style="{StaticResource Text_Box_Style}" BorderThickness="1" BorderBrush="#8E3E63"/>
+                    <TextBlock FontFamily="/Fonts/#Rubik" Foreground="#CAE6B2" Text="TYPE: " Height="Auto" Width="Auto" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="10,1,0,0"/>
+                    <ComboBox x:Name="comboBoxEntityType2" ItemsSource="{Binding ComboBoxItems}" SelectedItem="{Binding CurrentEntityType.Name, Mode=TwoWay}" Width="150" Height="20" Background="#8E3E63"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="20,0,35,10" Width="535">
+                    <TextBlock Text="{Binding CurrentEntity.ValidationErrors[Id]}" Foreground="Red" Width="150" Height="20" Margin="1,1,0,0"/>
+                    <TextBlock Text="{Binding CurrentEntity.ValidationErrors[Name]}" Foreground="Red" Width="150" Height="20" Margin="40,2,20,0"/>
+                    <TextBlock Text="{Binding CurrentEntityType.ValidationErrors[Name]}" Foreground="Red" Width="150" Height="20" Margin="20,2,50,0"/>
+                </StackPanel>
+
+                <Grid Width="80" Height="80" Margin="10,0,10,15" Background="LightGray">
+                    <Border BorderBrush="#8E3E63" BorderThickness="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <Image Source="{Binding CurrentEntityType.ImgSrc, Mode=TwoWay}" Stretch="Uniform"/>
+                    </Border>
+                </Grid>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="10,0,0,0">
+                    <Button Style="{StaticResource ButtonStyleNormal}" x:Name="buttonAdd" ToolTip="Add valve" Margin="10,0,20,0" Content="ADD" Width="100" Height="30" Command="{Binding AddEntityCommand}"/>
+                    <Button Style="{StaticResource ButtonStyleNormal}" x:Name="buttonDelete" ToolTip="Delete valve" Content="DELETE" Width="100" Height="30" Command="{Binding DeleteEntityCommand}" Margin="10,0,20,0"/>
+                </StackPanel>
+            </StackPanel>
+
+         
+        </StackPanel>
+    </Grid>
+</UserControl>
